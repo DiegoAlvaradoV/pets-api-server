@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+        "id": 1,
+        "categoryId": 1,
+        "nombre": "Purina Pro Veterinary Diets",
+        "img": "https://i.ibb.co/19bYHRh/1.jpg",
+        "price": 5257,
+        "stock": 38,
+        "description": "Provee nutrición de avanzada para proteger a los perros mayores de 7 años, manteniéndolos sanos y activos."
+    },
+    {
+        "id": 2,
+        "categoryId": 1,
+        "nombre": "Purina Pro Plan Adult Vitality",
+        "img": "https://i.ibb.co/rGC8t4X/2.png",
+        "price": 6918,
+        "stock": 23,
+        "description": "Formulado con fuentes naturales de glucosamina, que ayudan a mantener las articulaciones sanas y una movilidad óptima. Contiene una proporción equilibrada de proteína y grasa para mantener la masa muscular magra, una combinación de antioxidantes naturales y vitaminas E y C."
+    },
+    {
+        "id": 3,
+        "categoryId": 2,
+        "nombre": "Purina Pro Plan Adult",
+        "img": "https://i.ibb.co/wcW8rwD/3.png",
+        "price": 5856,
+        "stock": 46,
+        "description": "Es una tecnología exclusiva, con una combinación de prebióticos y antioxidantes naturales, que ayudan a optimizar la digestión y a mantener fuertes las defensas naturales de tu gato, protegiendo su sistema inmunológico contra las amenazas externas."
+    },
+    {
+        "id": 4,
+        "categoryId": 2,
+        "nombre": "Purina Pro Plan Adult Vitality",
+        "img": "https://i.ibb.co/8BmKvn3/Cat2.jpg",
+        "price": 4685,
+        "stock": 3,
+        "description": "Alimento completo y balanceado para gatos adultos de todas las razas."
+    },
+    {
+        "id": 5,
+        "categoryId": 3,
+        "nombre": "Balanceado Conejos",
+        "img": "https://i.ibb.co/GQpJ6Kw/Conejo1.jpg",
+        "price": 2247,
+        "stock": 84,
+        "description": "Alfalfa prensado natural es de excelente calidad y es un nutritivo alimento para los pequeños roedores de tu casa."
+    }
+  ]
+}
